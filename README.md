@@ -9,7 +9,7 @@ With the development of deep generative models, recent years have seen great suc
 *CCLAP results, compared with baseline models:*
 
 <div align=center>
-    <img src=https://user-images.githubusercontent.com/60317828/187475975-771a466a-e42e-464e-8ef7-7f03745fd790.png width="700"/>
+    <img src=https://user-images.githubusercontent.com/60317828/230751645-047e009c-23bd-4af3-a29e-5a8470adb99a.png width="700"/>
 </div>
 
 ### Requirements
