@@ -8,7 +8,9 @@ With the development of deep generative models, recent years have seen great suc
 
 *CCLAP results, compared with baseline models:*
 
-
+<div align=center>
+    <img src=https://user-images.githubusercontent.com/60317828/187475975-771a466a-e42e-464e-8ef7-7f03745fd790.png width="700"/>
+</div>
 
 ### Requirements
 
@@ -54,3 +56,7 @@ Please download the pre-trained checkpoints at [google drive]() and put them in 
 2. Run the code
 
 Here we release a version for testing only:
+
+```
+pass
+```
