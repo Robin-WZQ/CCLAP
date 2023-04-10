@@ -28,7 +28,7 @@ The other implementation of Chiense landscape painting geration models (e.g., St
 
   > Dataset contains 3560 paintings with corresponding caption. 
 
-  Download the all dataset [here](https://drive.google.com/file/d/1nBT6KrEhasdF3mcApPtz2QsbPnVW1IhL/view?usp=sharing).
+  Download the all dataset [Google Drive](https://drive.google.com/file/d/1nBT6KrEhasdF3mcApPtz2QsbPnVW1IhL/view?usp=sharing) | [Baidu Disk]()
 - Custom Data
 
   > If you want to generate you own dataset (i.e., Crap -> Crop -> Clean -> Caption)
@@ -53,8 +53,8 @@ Please download the pre-trained checkpoints and put them in .corresponding place
 
 |       Name        | Download |
 | :---------------: | :------: |
-| Content Generator | [url]() Unfinished |
-| Style Aggregator  | [url]() Unfinished |
+| Content Generator | [Baidu Disk]() Unfinished |
+| Style Aggregator  | [Baidu Disk]() Unfinished |
 
 2. Run the code (for testing only)
 
