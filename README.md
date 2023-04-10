@@ -2,6 +2,8 @@
 
 **Paper Title:** "CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model"
 
+**Arxiv:** Unfinished
+
 **Abstract:**
 
 With the development of deep generative models, recent years have seen great success of Chinese landscape painting generation. However, few works focus on controllable Chinese landscape painting generation due to the lack of data and limited modeling capabilities. In this work, we propose a controllable Chinese landscape painting generation method named CCLAP, which can generate painting with specific content and style based on Latent Diffusion Model. Specifically, it consists of two cascaded modules, i.e., content generator and style aggregator. The content generator module guarantees the content of generated paintings specific to the input text. While the style aggregator module is to generate paintings of a style corresponding to a reference image. Moreover, a new dataset of Chinese landscape paintings named CLAP is collected for comprehensive evaluation. Both the qualitative and quantitative results demonstrate that our method achieves state-of-the-art performance, especially in artfully-composed and artistic conception.
@@ -31,7 +33,7 @@ The other implementation of Chiense landscape painting geration models (e.g., St
 
   > If you want to generate you own dataset (i.e., Crap -> Crop -> Clean -> Caption)
 
-  running  ```/YouOwnData.py```
+  running  ```/YouOwnData.py``` Unfinished
 
 ### Fine-tuning
 
@@ -51,8 +53,8 @@ Please download the pre-trained checkpoints and put them in .corresponding place
 
 |       Name        | Download |
 | :---------------: | :------: |
-| Content Generator | [url]()  |
-| Style Aggregator  | [url]()  |
+| Content Generator | [url]() Unfinished |
+| Style Aggregator  | [url]() Unfinished |
 
 2. Run the code (for testing only)
 
