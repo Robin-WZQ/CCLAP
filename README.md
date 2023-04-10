@@ -29,7 +29,7 @@ The other implementation of Chiense landscape painting geration models (e.g., St
   Download the all dataset [here](https://drive.google.com/file/d/1nBT6KrEhasdF3mcApPtz2QsbPnVW1IhL/view?usp=sharing).
 - Custom Data
 
-  > If you want to generate you own dataset (i.e.,Crap -> Crop -> Clean -> Caption)
+  > If you want to generate you own dataset (i.e., Crap -> Crop -> Clean -> Caption)
 
   running  ```/YouOwnData.py```
 
