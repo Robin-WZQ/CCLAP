@@ -27,12 +27,11 @@ The other implementation of Chiense landscape painting geration models (e.g., St
   > Dataset contains 3560 paintings with corresponding caption. 
 
   Download the all dataset [here](https://drive.google.com/file/d/1nBT6KrEhasdF3mcApPtz2QsbPnVW1IhL/view?usp=sharing).
-
 - Custom Data
 
-  > If you want to generate you own dataset (i.e.,Crap, Crop, Clean, Caption)
+  > If you want to generate you own dataset (i.e.,Crap -> Crop -> Clean -> Caption)
 
-  running  ```/tools/YouOwnData.py```
+  running  ```/YouOwnData.py```
 
 ### Fine-tuning
 
@@ -48,17 +47,40 @@ The other implementation of Chiense landscape painting geration models (e.g., St
 
 1. Download checkpoints
 
-Please download the pre-trained checkpoints at [google drive]() and put them in ./checkpoints.
+Please download the pre-trained checkpoints and put them in .corresponding places.
 
 |       Name        | Download |
 | :---------------: | :------: |
-| Content Generator | CG.ckpt  |
-| Style Aggregator  | SA.ckpt  |
+| Content Generator | [url]()  |
+| Style Aggregator  | [url]()  |
 
-2. Run the code
+2. Run the code (for testing only)
 
-Here we release a version for testing only:
+>  We highly recommend following the original instructions of [Stable Diffusion](https://github.com/Robin-WZQ/Text-Guide-Chinese-Landscape-Painting-Generation) and [PAMA](https://github.com/luoxuan-cs/PAMA).
+
+- Content Generator:
 
 ```
-pass
+# Run the model
+!(python scripts/txt2img.py \
+    --prompt 'a chinese landscape painting of a landscape with mountains and a river' \
+    --outdir 'outputs/generated_pl' \
+    --H 512 --W 512 \
+    --n_samples 4 \
+    --config 'configs/stable-diffusion/landscape_paintings.yaml' \
+    --ckpt 'epoch43.ckpt')
 ```
+
+```python
+from PIL import Image
+im = Image.open("outputs/generated_pl/grid-0000.png").resize((1024, 256))
+display(im)
+print("a chinese landscape painting of a landscape with mountains and a river")
+```
+
+- Style Aggregator:
+
+```
+python main.py eval --content content_picture_path.jpg --style style_picture_path.jpg
+```
+
