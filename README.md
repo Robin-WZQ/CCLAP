@@ -86,7 +86,7 @@ print("a chinese landscape painting of a landscape with mountains and a river")
 python main.py eval --content content_picture_path.jpg --style style_picture_path.jpg
 ```
 
-### Ciatation
+### Citation
 ```
 @misc{wang2023cclap,
       title={CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model}, 
