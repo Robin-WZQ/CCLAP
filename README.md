@@ -86,3 +86,14 @@ print("a chinese landscape painting of a landscape with mountains and a river")
 python main.py eval --content content_picture_path.jpg --style style_picture_path.jpg
 ```
 
+# Ciatation
+```
+@misc{wang2023cclap,
+      title={CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model}, 
+      author={Zhongqi Wang and Jie Zhang and Zhilong Ji and Jinfeng Bai and Shiguang Shan},
+      year={2023},
+      eprint={2304.04156},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
