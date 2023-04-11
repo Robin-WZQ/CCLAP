@@ -49,7 +49,7 @@ The other implementation of Chiense landscape painting geration models (e.g., St
 
 1. Download checkpoints
 
-Please download the pre-trained checkpoints and put them in .corresponding places.
+Please download the pre-trained checkpoints and put them in the corresponding places.
 
 |       Name        | Download |
 | :---------------: | :------: |
