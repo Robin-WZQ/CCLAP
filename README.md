@@ -2,7 +2,7 @@
 
 **Paper Title:** "CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model"
 
-**Arxiv:** [https://arxiv.org/abs/2304.04156](https://arxiv.org/abs/2304.04156)
+**Url:** [https://arxiv.org/abs/2304.04156](https://arxiv.org/abs/2304.04156)
 
 **Abstract:**
 
