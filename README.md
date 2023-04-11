@@ -53,8 +53,8 @@ Please download the pre-trained checkpoints and put them in .corresponding place
 
 |       Name        | Download |
 | :---------------: | :------: |
-| Content Generator | [Baidu Disk]() Unfinished |
-| Style Aggregator  | [Baidu Disk]() Unfinished |
+| Content Generator | [Baidu Disk](https://pan.baidu.com/s/18NVld7Pu3JyrD59Q0jgruw) [code:2hjh] |
+| Style Aggregator  | [Baidu Disk](https://pan.baidu.com/s/1HgPC61RIc_j0vRK-HODVpg) [code:tu8z] |
 
 2. Run the code (for testing only)
 
