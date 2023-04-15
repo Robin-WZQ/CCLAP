@@ -29,11 +29,6 @@ The other implementation of Chiense landscape painting geration models (e.g., St
   > Dataset contains 3560 paintings with corresponding caption. 
 
   Download the all dataset [Google Drive](https://drive.google.com/file/d/1nBT6KrEhasdF3mcApPtz2QsbPnVW1IhL/view?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/1oNtnRTWIe2xB0aiu0VaVnw) [code:xybz]
-- Custom Data
-
-  > If you want to generate you own dataset (i.e., Crap -> Crop -> Clean -> Caption)
-
-  running  ```/YouOwnData.py``` Unfinished
 
 ### Fine-tuning
 
