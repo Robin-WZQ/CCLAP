@@ -14,8 +14,6 @@ With the development of deep generative models, recent years have seen great suc
     <img src=https://user-images.githubusercontent.com/60317828/230751645-047e009c-23bd-4af3-a29e-5a8470adb99a.png width="700"/>
 </div>
 
-The other implementation of Chiense landscape painting geration models (e.g., StyleGAN2, DDPM) are released at [HERE](https://github.com/Robin-WZQ/Unconditional-Chinese-Landscape-Painting-Generation).
-
 ### Requirements
 
 - Pytorch
