@@ -81,12 +81,10 @@ python main.py eval --content content_picture_path.jpg --style style_picture_pat
 
 ### Citation
 ```
-@misc{wang2023cclap,
+@inproceedings{wang2023cclap,
       title={CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model}, 
       author={Zhongqi Wang and Jie Zhang and Zhilong Ji and Jinfeng Bai and Shiguang Shan},
       year={2023},
-      eprint={2304.04156},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={International Conference on Multimedia and Expo (ICME)}
 }
 ```
