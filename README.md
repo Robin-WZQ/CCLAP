@@ -14,11 +14,6 @@ With the development of deep generative models, recent years have seen great suc
     <img src=https://user-images.githubusercontent.com/60317828/230751645-047e009c-23bd-4af3-a29e-5a8470adb99a.png width="700"/>
 </div>
 
-### Requirements
-
-- Pytorch
-- [LAVIS](https://github.com/salesforce/LAVIS)
-- [PytorchOCR](https://github.com/WenmuZhou/PytorchOCR)
 
 ### Dataset
 
