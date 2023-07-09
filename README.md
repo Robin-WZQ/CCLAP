@@ -16,7 +16,7 @@ With the development of deep generative models, recent years have seen great suc
 
 ### Demo
 
-You can play with our demo at [huggingface space](https://huggingface.co/spaces/RobinWZQ/CCLAP)
+You can play with our demo at [huggingface space](https://huggingface.co/spaces/RobinWZQ/CCLAP).
 
 ### Dataset Download
 
