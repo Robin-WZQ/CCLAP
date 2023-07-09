@@ -14,11 +14,11 @@ With the development of deep generative models, recent years have seen great suc
     <img src=https://user-images.githubusercontent.com/60317828/230751645-047e009c-23bd-4af3-a29e-5a8470adb99a.png width="700"/>
 </div>
 
-### Demo
+# Demo
 
 You can play with our demo at [huggingface space](https://huggingface.co/spaces/RobinWZQ/CCLAP).
 
-### Dataset Download
+# Dataset Download
 
 - Original Data
 
@@ -27,7 +27,7 @@ You can play with our demo at [huggingface space](https://huggingface.co/spaces/
   Download the all dataset [Google Drive](https://drive.google.com/file/d/1nBT6KrEhasdF3mcApPtz2QsbPnVW1IhL/view?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/1oNtnRTWIe2xB0aiu0VaVnw) [code:xybz]
 
 
-### Models Download
+# Models Download
 
 All the models are available.
 
@@ -37,7 +37,9 @@ All the models are available.
 | Style Aggregator  | [Baidu Disk](https://pan.baidu.com/s/1HgPC61RIc_j0vRK-HODVpg) [code:tu8z] |
 
 
-### Citation
+# 📄 Citation
+
+If you find this project useful in your research, please consider cite:
 ```
 @inproceedings{wang2023cclap,
       title={CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model}, 
