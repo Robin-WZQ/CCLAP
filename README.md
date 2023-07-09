@@ -48,3 +48,13 @@ If you find this project useful in your research, please consider cite:
       booktitle={International Conference on Multimedia and Expo (ICME)}
 }
 ```
+
+# ⏳ Ongoing
+
+Our team constantly studies general video understanding and long-term video reasoning:
+
+- [ ] a
+- [ ]b
+- [ ] c
+- [ ] d
+- [ ] ...
