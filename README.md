@@ -54,7 +54,7 @@ If you find this project useful in your research, please consider cite:
 Our team constantly studies general video understanding and long-term video reasoning:
 
 - [ ] a
-- [ ]b
+- [ ] b
 - [ ] c
 - [ ] d
 - [ ] ...
