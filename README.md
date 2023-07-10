@@ -32,9 +32,19 @@ In this work, we propose a controllable Chinese landscape painting generation me
 | Content Generator | [Baidu Disk](https://pan.baidu.com/s/18NVld7Pu3JyrD59Q0jgruw) [code:2hjh] |
 | Style Aggregator  | [Baidu Disk](https://pan.baidu.com/s/1HgPC61RIc_j0vRK-HODVpg) [code:tu8z] |
   
-# 🔨 Demo
+# 🔨 Demo & Results
 
 You can play with our demo at [huggingface space](https://huggingface.co/spaces/RobinWZQ/CCLAP).
+
+<div align=center>
+<img src='https://github.com/Robin-WZQ/CCLAP/assets/60317828/585634e1-6118-4fb0-9478-4ca00caf76dd' width=600>
+</div>
+
+<div align=center>
+<img src='https://github.com/Robin-WZQ/CCLAP/assets/60317828/7251e095-1f50-413a-82c5-521c057075b8' width=600>
+</div>
+
+
 
 # ⏳ Ongoing
 
