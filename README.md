@@ -48,13 +48,16 @@ You can play with our demo at [huggingface space](https://huggingface.co/spaces/
 
 # ⏳ Ongoing
 
-Our team constantly studies general video understanding and long-term video reasoning:
+We have a great passion on generating Chinese Landscape painting issue, and constantly study these topics:
 
-- [ ] a
-- [ ] b
-- [ ] c
-- [ ] d
+- [ ] Solve the problem that the model cannot generate human beings well.
+- [ ] What is the “style” in Chinese landscape painting? The “style” or we call “genre” is a kind of thing that contains the rule or the knowledge about how we color a painting. 
+- [ ] Can we control the composition of the painting? 
+- [ ] A painting contains a spirit.
+- [ ] How can we generate a painting in a more human way?
 - [ ] ...
+
+🤝 Feel free to discuss with us privately!
 
 
 # 📄 Citation
