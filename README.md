@@ -13,7 +13,7 @@ In this work, we propose a controllable Chinese landscape painting generation me
 
 
 <div align=center>
-<img src='https://github.com/Robin-WZQ/CCLAP/assets/60317828/fcfbeeed-992f-4ee1-b63a-aaba28be1613' width=600>
+<img src='https://github.com/Robin-WZQ/CCLAP/blob/main/images/model.png' width=600>
 </div>
 
 # 📩 Resources Download
@@ -37,11 +37,11 @@ In this work, we propose a controllable Chinese landscape painting generation me
 You can play with our demo at [huggingface space](https://huggingface.co/spaces/RobinWZQ/CCLAP).
 
 <div align=center>
-<img src='https://github.com/Robin-WZQ/CCLAP/assets/60317828/585634e1-6118-4fb0-9478-4ca00caf76dd' width=600>
+<img src='https://github.com/Robin-WZQ/CCLAP/blob/main/images/pic1.png' width=600>
 </div>
 
 <div align=center>
-<img src='https://github.com/Robin-WZQ/CCLAP/assets/60317828/7251e095-1f50-413a-82c5-521c057075b8' width=600>
+<img src='https://github.com/Robin-WZQ/CCLAP/blob/main/images/pic2.png' width=600>
 </div>
 
 
