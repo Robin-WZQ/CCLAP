@@ -1,4 +1,4 @@
-# CCLAP \[[Paper](https://arxiv.org/abs/2304.04156)]
+# 🖼︎ CCLAP \[[Paper](https://arxiv.org/abs/2304.04156)]
 <a src="https://img.shields.io/badge/cs.CV-2304.04156-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2304.04156"> <img src="https://img.shields.io/badge/cs.CV-2304.04156-b31b1b?logo=arxiv&logoColor=red">
 </a>
 <a href="https://huggingface.co/spaces/RobinWZQ/CCLAP"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Spaces"> </a>
