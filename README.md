@@ -25,7 +25,7 @@ In this work, we propose a controllable Chinese landscape painting generation me
 
 ### Models Download
 
-> All the models are available.
+> The Content Generator here is a .ckpt format, a Diffuser Models format is available at [HERE](https://huggingface.co/RobinWZQ/CCLAP).
 
 |       Name        | Download |
 | :---------------: | :------: |
