@@ -9,6 +9,13 @@
 
 # 👀 Intorduction
 
+In this work, we propose a controllable Chinese landscape painting generation method named CCLAP, which can generate painting with specific content and style based on Latent Diffusion Model. Specifically, it consists of two cascaded modules, i.e., content generator and style aggregator. The content generator module guarantees the content of generated paintings specific to the input text. While the style aggregator module is to generate paintings of a style corresponding to a reference image. Moreover, a new dataset of Chinese landscape paintings named CLAP is collected for comprehensive evaluation. Both the qualitative and quantitative results demonstrate that our method achieves state-of-the-art performance, especially in artfully-composed and artistic conception.
+
+
+<div align=center>
+<img src='https://github.com/Robin-WZQ/CCLAP/assets/60317828/fcfbeeed-992f-4ee1-b63a-aaba28be1613' width=600>
+</div>
+
 # 📩 Resources Download
 
 ### Dataset Download
