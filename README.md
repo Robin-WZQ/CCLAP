@@ -48,7 +48,7 @@ You can play with our demo at [huggingface space](https://huggingface.co/spaces/
 
 # ⏳ Ongoing
 
-We have a great passion on generating Chinese Landscape painting issue, and constantly study these topics:
+We are very passionate about the issue of creating Chinese landscape paintings and are constantly studying these topics:
 
 - [ ] Solve the problem that the model cannot generate human beings well.
 - [ ] What is the “style” in Chinese landscape painting? The “style” or we call “genre” is a kind of thing that contains the rule or the knowledge about how we color a painting. 
