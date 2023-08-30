@@ -66,11 +66,12 @@ We are very passionate about the issue of creating Chinese landscape paintings a
 
 If you find this project useful in your research, please consider cite:
 ```
-@inproceedings{wang2023cclap,
-      title={CCLAP: Controllable Chinese Landscape Painting Generation via Latent Diffusion Model}, 
-      author={Zhongqi Wang and Jie Zhang and Zhilong Ji and Jinfeng Bai and Shiguang Shan},
-      year={2023},
-      booktitle={International Conference on Multimedia and Expo (ICME)}
-}
+@INPROCEEDINGS{10219843,
+  author={Wang, Zhongqi and Zhang, Jie and Ji, Zhilong and Bai, Jinfeng and Shan, Shiguang},
+  booktitle={2023 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={CCLAP: Controllable Chinese Landscape Painting Generation Via Latent Diffusion Model}, 
+  year={2023},
+  pages={2117-2122},
+  doi={10.1109/ICME55011.2023.00362}}
 ```
 
