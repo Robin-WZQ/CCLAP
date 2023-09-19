@@ -23,7 +23,7 @@ In this work, we propose a controllable Chinese landscape painting generation me
 
  Send the Email to us if you want to apply for the dataset, showing your school or company and your application purpose. We will give a feedback within 5 days. 
 
-Email address: 2485794339@qq.com
+Email address: wangzhongqi23s@ict.ac.cn
 
 ### Models Download
 
