@@ -32,9 +32,7 @@ Email address: wangzhongqi23s@ict.ac.cn
 | Content Generator | [Hugging face](https://huggingface.co/RobinWZQ/CCLAP) |
 | Style Aggregator  | [Baidu Disk](https://pan.baidu.com/s/1HgPC61RIc_j0vRK-HODVpg) [code:tu8z] |
   
-# 🔨 Demo & Results
-
-You can play with our demo at [huggingface space](https://huggingface.co/spaces/RobinWZQ/CCLAP).
+# 🔨 Results
 
 <div align=center>
 <img src='https://github.com/Robin-WZQ/CCLAP/blob/main/images/pic1.png' width=600>
@@ -44,7 +42,13 @@ You can play with our demo at [huggingface space](https://huggingface.co/spaces/
 <img src='https://github.com/Robin-WZQ/CCLAP/blob/main/images/pic2.png' width=600>
 </div>
 
+# How to use
 
+- Git clone this repo
+
+- Download the models (i.e., Content Generator and Style Aggregator) and put them into the same folder
+
+- run app.py
 
 # ⏳ Ongoing
 
