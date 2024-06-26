@@ -10,7 +10,7 @@ class Net(nn.Module):
         super(Net, self).__init__()
         self.args = args
         self.vgg = vgg19[:44]
-        self.vgg.load_state_dict(torch.load('./checkpoints/encoder.pth', map_location='cpu'), strict=False)
+        self.vgg.load_state_dict(torch.load('./PAMA/encoder.pth', map_location='cpu'), strict=False)
         for param in self.vgg.parameters():
             param.requires_grad = False
 
@@ -25,10 +25,10 @@ class Net(nn.Module):
                                    device=DEVICE)
 
         if args.pretrained == True:
-            self.align1.load_state_dict(torch.load('./checkpoints/PAMA1.pth', map_location='cpu'), strict=True)
-            self.align2.load_state_dict(torch.load('./checkpoints/PAMA2.pth', map_location='cpu'), strict=True)
-            self.align3.load_state_dict(torch.load('./checkpoints/PAMA3.pth', map_location='cpu'), strict=True)
-            self.decoder.load_state_dict(torch.load('./checkpoints/decoder.pth', map_location='cpu'), strict=False)
+            self.align1.load_state_dict(torch.load('./PAMA/PAMA1.pth', map_location='cpu'), strict=True)
+            self.align2.load_state_dict(torch.load('./PAMA/PAMA2.pth', map_location='cpu'), strict=True)
+            self.align3.load_state_dict(torch.load('./PAMA/PAMA3.pth', map_location='cpu'), strict=True)
+            self.decoder.load_state_dict(torch.load('./PAMA/decoder.pth', map_location='cpu'), strict=False)
 
         if args.requires_grad == False:
             for param in self.parameters():
@@ -101,10 +101,10 @@ class Net(nn.Module):
         return [relu1_1, relu2_1, relu3_1, relu4_1, relu5_1]
     
     def save_ckpts(self):
-        torch.save(self.align1.state_dict(), "./checkpoints/PAMA1.pth")
-        torch.save(self.align2.state_dict(), "./checkpoints/PAMA2.pth")
-        torch.save(self.align3.state_dict(), "./checkpoints/PAMA3.pth")
-        torch.save(self.decoder.state_dict(), "./checkpoints/decoder.pth")  
+        torch.save(self.align1.state_dict(), "./PAMA/PAMA1.pth")
+        torch.save(self.align2.state_dict(), "./PAMA/PAMA2.pth")
+        torch.save(self.align3.state_dict(), "./PAMA/PAMA3.pth")
+        torch.save(self.decoder.state_dict(), "./PAMA/decoder.pth")  
 
 #---------------------------------------------------------------------------------------------------------------
 
