@@ -44,11 +44,27 @@ Email address: wangzhongqi23s@ict.ac.cn
 
 # How to use
 
-- Git clone this repo
+- Git clone this repo and pip install the requirements
 
 - Download the models (i.e., Content Generator and Style Aggregator) and put them into the same folder
 
+  ```
+  Make sure the file structure is:
+
+  CCLAP
+  PAMA
+  style_image
+  app.py
+  hist_loss.py
+  net.py
+  style_transfer.py
+  utils.py
+  ```
+
 - run app.py
+  ```
+  python app.py
+  ```
 
 # ⏳ Ongoing
 
