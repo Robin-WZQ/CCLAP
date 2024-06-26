@@ -27,11 +27,9 @@ Email address: wangzhongqi23s@ict.ac.cn
 
 ### Models Download
 
-> The Content Generator here is a .ckpt format, a Diffuser Models format is available at [HERE](https://huggingface.co/RobinWZQ/CCLAP).
-
 |       Name        | Download |
 | :---------------: | :------: |
-| Content Generator | [Baidu Disk](https://pan.baidu.com/s/18NVld7Pu3JyrD59Q0jgruw) [code:2hjh] |
+| Content Generator | [Hugging face](https://huggingface.co/RobinWZQ/CCLAP) |
 | Style Aggregator  | [Baidu Disk](https://pan.baidu.com/s/1HgPC61RIc_j0vRK-HODVpg) [code:tu8z] |
   
 # 🔨 Demo & Results
