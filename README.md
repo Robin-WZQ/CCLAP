@@ -66,17 +66,6 @@ In this work, we propose a controllable Chinese landscape painting generation me
   python app.py
   ```
 
-# ⏳ Ongoing
-
-We are very passionate about the issue of creating Chinese landscape paintings and are constantly studying these topics:
-
-- [ ] Solve the problem that the model cannot generate human beings well.
-- [ ] What is the “style” in Chinese landscape painting? The “style” or we call “genre” is a kind of thing that contains the rule or the knowledge about how we color a painting. 
-- [ ] Can we control the composition of the painting? 
-- [ ] A painting contains a spirit.
-- [ ] How can we generate a painting in a more human way?
-- [ ] ...
-
 🤝 Feel free to discuss with us privately!
 
 
