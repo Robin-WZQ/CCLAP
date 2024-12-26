@@ -21,9 +21,7 @@ In this work, we propose a controllable Chinese landscape painting generation me
 ### Dataset Download
  > Dataset contains 3560 paintings with corresponding captions. 
 
- Send the Email to us if you want to apply for the dataset, showing your school or company and your application purpose. We will give a feedback within 5 days. 
-
-Email address: wangzhongqi23s@ict.ac.cn
+- [Badiu Disk](https://pan.baidu.com/s/1yOOTyjS100j2WFGiCXo25A?pwd=gf3a)
 
 ### Models Download
 
