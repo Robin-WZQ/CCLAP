@@ -23,6 +23,8 @@ In this work, we propose a controllable Chinese landscape painting generation me
 
 - [Badiu Disk](https://pan.baidu.com/s/1yOOTyjS100j2WFGiCXo25A?pwd=gf3a)
 
+- [Google Drive](https://drive.google.com/file/d/1FA_tuSlXlWHTkIRgG7eVM0CFGgynrvNR/view?usp=drive_link)
+
 ### Models Download
 
 |       Name        | Download |
