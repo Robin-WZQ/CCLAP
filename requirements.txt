@@ -2,7 +2,7 @@ accelerate==0.20.3
 controlnet_aux==0.0.6
 diffusers==0.18.1
 einops==0.6.1
-gradio==3.36.1
+gradio==3.44.3
 huggingface-hub==0.16.4
 mediapipe==0.10.1
 opencv-python-headless==4.8.0.74
